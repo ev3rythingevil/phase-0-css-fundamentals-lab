@@ -9,4 +9,12 @@ header{
 #featured-property{
   text-align:center;
    margin:auto;
+nav{
+  padding:  10px
+  background-color:green;
+  }
+figcaption{
+  font-size:small;
+p{width:800px;
+text-align:center;}  
 }
