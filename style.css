@@ -9,18 +9,18 @@ header{
 #featured-property{
   text-align:center;
    margin:auto;}
-nav{
-  padding:  10px
-  background-color:green;
+nav a{  padding:10px;
+ background-color:green;
   }
 figcaption{
   font-size:small;}
-p#featured-property{
+#featured-property p{
   width:800px;
 text-align:center;
-margin:10px;
+margin: auto;
+padding:10px;
 }  
-div#details{
+div{
   float:left;
   text-align:center;
   width:25%;
