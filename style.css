@@ -17,4 +17,12 @@ figcaption{
   font-size:small;}
 p#featured-property{
   width:800px;
-text-align:center;}  
+text-align:center;
+margin:10px;
+}  
+div#details{
+  float:left;
+  text-align:center;
+  width:25%;
+  background-color:blueviolet;
+}
