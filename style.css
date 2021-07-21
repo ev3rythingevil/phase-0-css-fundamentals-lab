@@ -8,13 +8,13 @@ header{
 }
 #featured-property{
   text-align:center;
-   margin:auto;
+   margin:auto;}
 nav{
   padding:  10px
   background-color:green;
   }
 figcaption{
-  font-size:small;
-p{width:800px;
+  font-size:small;}
+p#featured-property{
+  width:800px;
 text-align:center;}  
-}
